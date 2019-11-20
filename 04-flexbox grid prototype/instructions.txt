@@ -4,6 +4,8 @@ This example should look familiar to you - we coded it several times in the orig
 
 START: https://codepen.io/jen4web/pen/WVaNep
 
+https://codepen.io/cornelia-schulz/pen/XWWoNqr
+
 Take a few minutes to remind yourself of this code. Essentially, we did the following:
 
 - at mobile dimensions, all cells are 92% wide with 4% margin on either side

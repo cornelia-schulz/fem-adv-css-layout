@@ -12,8 +12,13 @@ main {
   justify-content: space-between;
   --columns: 16;
 }
+#inside main {
+  --columns: 5;
+}
 section,
-#devs li {
+#devs li,
+#inside article,
+#inside aside {
     --width: 16;
     --gap-constant: 0.3%;
 	--initialbasis: calc(var(--width, 0) / var(--columns, 16) * 100%);
@@ -37,8 +42,8 @@ section,
     row 3 #resources: 11
     Change ordering to make that work */
     #first {
-        --width: 5;
-        order: 1;
+      --width: 5;
+      order: 1;
     }
     #main {
         --width: 6;
@@ -54,6 +59,13 @@ section,
     #resources {
         --width: 11;
         order: 4;
+    }
+
+    #inside article {
+      --width: 4;
+    }
+    #inside aside {
+      --width: 1;
     }
 
     .floatleft {

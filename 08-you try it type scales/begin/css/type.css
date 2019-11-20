@@ -1,5 +1,5 @@
 :root {
-  --base-size: 1em;
+  --base-size: 0.6em;
   --type-scale: 1.125;
   --h5: calc(var(--base-size) * var(--type-scale));
   --h4: calc(var(--h5) * var(--type-scale));

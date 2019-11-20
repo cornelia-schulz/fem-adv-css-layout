@@ -5,6 +5,8 @@ Part 1: Learn proper HTML coding of responsive data table and some basic CSS sty
 START: https://codepen.io/jen4web/pen/zgmwZd?editors=1100
 FINISH: https://codepen.io/jen4web/pen/qeJmro?editors=1100
 
+https://codepen.io/cornelia-schulz/pen/ZEEPKMq?editors=1100haha
+
 
 Part 2: Accessible side-scrolling for a table in responsive design
 It's easy to get the side scrolling, but with 10 extra seconds of work, we can also make it accessible.
